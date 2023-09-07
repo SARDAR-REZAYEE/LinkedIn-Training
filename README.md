@@ -1,9 +1,10 @@
 # LinkedIn-Training
 In this Repository I share helpful contents and tutorial to help beginners build a powerful LinkedIn profile
 
+![logo](https://github.com/SARDAR-REZAYEE/LinkedIn-Training/blob/main/Github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm SARDAR REZAYEE</h1>
 <h3 align="center">A passionate Web Developer, Python Programmer, Machine learning enthusiast and graphic designer</h3>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/11/2a/20/112a20620fcd78b450ac7ec451f471ef.gif"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/11/2a/20/112a20620fcd78b450ac7ec451f471ef.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardar-rezayee&label=Profile%20views&color=0e75b6&style=flat" alt="sardar-rezayee" /> </p>
 
